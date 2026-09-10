@@ -153,6 +153,17 @@ initial_activities = {
         "max_participants": 18,
         "participants": ["isabella@mergington.edu", "lucas@mergington.edu"]
     },
+    "Manga Maniacs": {
+        "description": "Dive into the vibrant world of Japanese Manga! From epic shonen battles and heartwarming slice-of-life tales to mind-bending mysteries and fantastical adventures — discover unforgettable characters and the stories that have captivated millions worldwide.",
+        "schedule": "Tuesdays, 5:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        "max_participants": 25,
+        "participants": []
+    },
     "Sunday Chess Tournament": {
         "description": "Weekly tournament for serious chess players with rankings",
         "schedule": "Sundays, 2:00 PM - 5:00 PM",
